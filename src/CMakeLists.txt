@@ -3,4 +3,5 @@ project(starter_examples)
 
 # simple starter skeleton for projects 
 add_subdirectory(apps/example)
+add_subdirectory(apps/deserializer)
 
